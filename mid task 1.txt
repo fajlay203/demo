@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>mid_task 1</title>
+</head>
+<body>
+
+<body style="background-color:powderblue;">
+<h1 style="background-color:Tomato;">Mid Task 1</h1>
+<h2>Webtech is a course of CSE department</h2>
+<p> My Name is : Md Fajlay Rabbi </p>
+<p>My Picture:</p><img src="C:\Users\F Rabbi\Downloads\IMG_20201231_195315-02.jpeg" alt= "Picture" style="width:200px;height:220px;">
+<p>My Institute:<a href="https://www.aiub.edu">AIUB</a></p>
+<p>My social Media:<a href="https://www.facebook.com/profile.php?id=100008553061349">Facebook</a><p>
+<p>My Institute logo:</p><img src="https://seeklogo.com/images/A/aiub-logo-1115122C7B-seeklogo.com.png" alt="AIUB logo">
+<table style="width:50%">
+  <tr>
+    <th>Exam</th>
+    <th>Year</th>
+    <th>GPA/CGPA</th>
+	<th>Institution</th>
+  </tr>
+  <tr>
+    <td>SSC</td>
+    <td>2015</td>
+    <td>5.00</td>
+	<td>Bhola Govt High School</td>
+  </tr>
+  <tr>
+    <td>HSC</td>
+    <td>2017</td>
+    <td>4.50</td>
+	<td>Cambrian School and College Dhaka</td>
+  </tr>
+  <tr>
+    <td>BSc</td>
+    <td>In Progress</td>
+    <td>3.50</td>
+	<td>Americal International University-Bangladesh</td>
+  </tr>
+</table>
+</body>
+</html>
